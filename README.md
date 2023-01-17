@@ -8,8 +8,7 @@ I am an aspiring software developer based in Turkey. Interested in web technolog
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanelg7&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ### Language and Tools I used up to this point:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanelg7)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanelg7&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 * 🤡 Fun fact: My earliest recollection and motivation of any cs related subject is using cheat engine at 9 y/o to make my dragon fable character maxed out 💀
 <!--
