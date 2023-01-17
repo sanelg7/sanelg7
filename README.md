@@ -9,7 +9,7 @@ I am an aspiring software developer based in Turkey. Interested in web technolog
 
 ### Language and Tools I used up to this point:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanelg7&layout=default&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanelg7&layout=default&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 * 🤡 Fun fact: My earliest recollection and motivation of any cs related subject is using cheat engine at 9 y/o to make my dragon fable character maxed out 💀
 <!--
