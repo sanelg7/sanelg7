@@ -1,4 +1,4 @@
-### Hiya! I'm Ege 🚀
+### Hi! I'm Ege 🚀
 I am an aspiring software developer based in Turkey. Interested in web technologies at the moment.
 * 🌱 Currently learning Spring/SpringBoot as well as widening my grasp on Java.
 * 🤙 You can reach me on linkedin
